@@ -36,4 +36,7 @@ Manisha Arutla
 📂 Repository Link
 https://github.com/manishaarutla1236/myproject
 
+Access the app using the link below
+https://manishaarutla1236-myproject-final-app-322aqf.streamlit.app/
+
 
